@@ -1,6 +1,6 @@
 # CellularBeats
 
-![App Logo](https://github.com/atomhax/CellularBeats/logo.png)
+![App Logo](https://github.com/atomhax/CellularBeats/blob/main/logo.png)
 
 Welcome to the GitHub repository for _CellularBeats_! This repository serves as a public platform for users to report issues, ask questions, and suggest new features.
 
